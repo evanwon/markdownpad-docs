@@ -188,7 +188,7 @@
 
 ### Undo
 
-**Description:** Erases the last change in the document, reverting it to its former state.
+**Description:** Erases the last change in the document, reverting it to its former state.  
 **Shortcut:** `Ctrl+Z`
 
 ### Redo
