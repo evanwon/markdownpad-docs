@@ -20,7 +20,7 @@
 ### Save Document As
 
 **Description:** Saves the current document, but always asks the user to specify the name and location for the document. This allows the document to be saved to a new location and/or with a different name.  
-**Shortcut:** `Ctrl+Shift+S`
+**Shortcut:** `Ctrl+Shift+A`
 
 ### Save All Documents
 
