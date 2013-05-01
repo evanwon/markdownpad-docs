@@ -211,6 +211,11 @@
 **Description:** Places the raw HTML equivalent of the selected Markdown text in the Clipboard.  
 **Shortcut:** `Ctrl+Shift+C`
 
+### Copy Document as HTML
+
+**Description:** Places the raw HTML equivalent of the entire Markdown document in the Clipboard.  
+**Shortcut:** None
+
 ### Copy LivePreview Content
 
 **Description:** Places the rich text equivalent of the contents displayed in the LivePreview pane. This content can be pasted into applications like rich text word processors or email applications.  
