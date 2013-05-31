@@ -65,12 +65,12 @@
 ### Export HTML
 
 **Description:** Exports the rendered HTML version of the current document.  
-**Shortcut:** None
+**Shortcut:** `Ctrl+Shift+1`
 
 ### Export PDF
 
 **Description:** Exports a PDF document created from the rendered HTML version of the current document.  
-**Shortcut:** None
+**Shortcut:** `Ctrl+Shift+2`
 
 ## Application Commands
 
