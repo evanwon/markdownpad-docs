@@ -4,12 +4,17 @@
 
 ### New Document
 
-**Description:** Creates a new, blank document in MarkdownPad  
+**Description:** Creates a new, blank document in MarkdownPad.  
 **Shortcut:** `Ctrl+N`
+
+### New Window
+
+**Description:** Creates a new instance of MarkdownPad.  
+**Shortcut:** `Ctrl+Shift+N`
 
 ### Open Document
 
-**Description:** Opens an existing document in MarkdownPad  
+**Description:** Opens an existing document in MarkdownPad.  
 **Shortcut:** `Ctrl+O`
 
 ### Save Document
