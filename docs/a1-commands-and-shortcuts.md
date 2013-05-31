@@ -49,7 +49,7 @@
 
 ### Close All Documents
 
-**Description:** Closes all open documents.
+**Description:** Closes all open documents.  
 **Shortcut:** None
 
 ### Print HTML
