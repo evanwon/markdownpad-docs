@@ -17,6 +17,11 @@
 **Description:** Opens an existing document in MarkdownPad.  
 **Shortcut:** `Ctrl+O`
 
+### Reload from Disk
+
+**Description:** Reloads the current document from disk. If the current document contains unsaved changes, a warning will be displayed that the changes will be lost if the document is reloaded.  
+**Shortcut:** None
+
 ### Save Document
 
 **Description:** Saves the current document. If the document already exists, the existing document will be updated. If saving a new document for the first time, the user will be prompted to specify the name and location for the document.  
