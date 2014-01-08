@@ -17,7 +17,7 @@ The easiest way to do this is to click the **M** icon in the bottom left side of
 
 #### Step 2: Wrap the code block with Fenced Code Block syntax
 
-In GitHub Flavored Markdown, code blocks can be wrapped with ` ``` ` to create a fenced code block. 
+In GitHub Flavored Markdown, code blocks can be wrapped with three backticks (```) to create a "fenced code block". 
 
 For example:
 
