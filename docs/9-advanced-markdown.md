@@ -56,3 +56,7 @@ This produces the result:
 ### Supported Languages
 
 To see a list of supported languages, check out the [Highlight.js demo page](http://highlightjs.org/static/test.html).
+
+## Tables
+
+`todo`
